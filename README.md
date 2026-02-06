@@ -39,6 +39,34 @@ puedan realizar sus prácticas obligatorias **de manera presencial** implementan
   - [ ] Desarrollo web en entorno servidor
        
 ---
+
+---
+### Proyecto "Sistemas de Alta Disponibilidad en Moodle I": `Disponible`
+- **Dirigido a**:  `ASIR`
+- **Descripción**:
+  Dentro del centro Campus Digital FP existen diversas aplicaciones Moodle para usos internos y de los cursos de formación presenciales. Para evitar problemas de caídas y pérdidas de datos, se quiere estudiar la viabilidad de la implementación de un sistema de Alta Disponibilidad. 
+
+- **Tareas a realizar**:
+  - [ ] Investigación sobre sistemas de alta disponibilidad para Moodle
+  - [ ] Implementación de una plataforma de Moodle en alta disponibilidad para pruebas
+  - [ ] Documentación, valoración y pruebas de la plataforma
+      
+- **Tecnologías involucradas**:
+  - [ ] Ansible
+  - [ ] Pacemaker
+  - [ ] Corosync
+  - [ ] Proxmox
+  - [ ] Docker
+  - [ ] Kubernetes
+  - [ ] Scripting con Python
+  - [ ] Herramientas de testing 
+         
+- **Conocimientos previos**: 
+  - [ ] Sistemas informáticos
+  
+       
+---
+
 <!--
 #### Proyecto X: (plantilla) [ESTADO: Disponible, Reservado, En desarrollo]
 - **Dirigido a**:  <DAM/DAW/ASIR/SMR>
