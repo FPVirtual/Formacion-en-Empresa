@@ -63,8 +63,12 @@ puedan realizar sus prácticas obligatorias **de manera presencial** implementan
          
 - **Conocimientos previos**: 
   - [ ] Sistemas informáticos
+        
+- **Enlaces a documentación**
+  [Moodle-docker](https://github.com/moodlehq/moodle-docker)
+  [Moodle-kubernetes](https://github.com/bitnami/charts/tree/main/bitnami/moodle)
+
   
-       
 ---
 
 <!--
