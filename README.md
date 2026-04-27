@@ -70,6 +70,28 @@ puedan realizar sus prácticas obligatorias **de manera presencial** implementan
 
   
 ---
+### Proyecto "Creación automatizada de los carnets de alumnado": `Disponible`
+- **Dirigido a**:  `DAM`, `DAW`
+- **Descripción**:
+  Todo el alumnado tiene derecho a recibir un carnet de alumnado para el curso en el que están matriculados. 
+- **Tareas a realizar**:
+  - [ ] Investigación del API de moodle
+  - [ ] Generación de documentos tipo PDF automatizados
+  - [ ] Documentación, valoración y pruebas de la plataforma
+      
+- **Tecnologías involucradas**:
+  - [ ] Moodle
+  - [ ] APIS
+  - [ ] Scripting con Python
+  - [ ] Herramientas de testing 
+         
+- **Conocimientos previos**: 
+  - [ ] Programación
+  - [ ] Entornos de desarrollo
+              
+- **Enlaces a documentación**
+
+---
 
 <!--
 #### Proyecto X: (plantilla) [ESTADO: Disponible, Reservado, En desarrollo]
